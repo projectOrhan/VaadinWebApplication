@@ -22,6 +22,10 @@ https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/8404a6ec-89
 
 https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/bd534e05-af39-4df7-a9ed-0707950c2262
 
+--add more customers with the same city.
 
 
+https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/2db8af8d-58c1-4f85-976b-fb77c3602364
+
+--remove customers with the same city.
 
