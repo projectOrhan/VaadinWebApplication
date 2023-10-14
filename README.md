@@ -16,10 +16,15 @@ https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/ca440a27-4d
 --add_customer
 
 
-https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/ec0e3794-87c7-4545-a066-325d40dc79a3
 
 
 --delete_customer
+
+
+Uploading delete_customer.mp4…
+
+
+
 
 
 https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/bd534e05-af39-4df7-a9ed-0707950c2262
