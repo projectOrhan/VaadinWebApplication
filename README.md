@@ -8,7 +8,6 @@ Vaadin Framework kullanılarak tasarlanmış bir müşteri bilgi sisteminin bir 
 https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/e9e277c4-8b05-4a7d-9f6d-a89bc199b6a8
 
 
-
 --edit_customer
 
 https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/ca440a27-4df6-4177-9ce2-bd9e249723ce
@@ -16,16 +15,10 @@ https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/ca440a27-4d
 --add_customer
 
 
+https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/8404a6ec-89b1-4753-8001-0c308a1225bf
 
 
 --delete_customer
-
-
-Uploading delete_customer.mp4…
-
-
-
-
 
 https://github.com/projectOrhan/VaadinWebApplication/assets/28529085/bd534e05-af39-4df7-a9ed-0707950c2262
 
