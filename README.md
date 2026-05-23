@@ -1,7 +1,15 @@
 # VaadinWebApplication
-A Web Application developed by using Vaadin Framework.
+Full Stack Customer Information System (Demo)
+This application is a dedicated system built to handle database management and regional data analysis. It provides a central interface where customer records are managed and visualized through real-time charts to track regional density.
 
-Vaadin Framework kullanılarak tasarlanmış bir müşteri bilgi sisteminin bir kısmı. Müşterilerin bulunduğu şehir bilgisini alır ve Pie Chart üzerinde gösterir. Bu gösterim müşterilerin yoğun olduğu yerleri görmek adına kolaylık sağlar. Aynı zamanda, müşteri bilgilerini bir tablo halinde gösterebilir, gerektiğinde müşteri bilgilerini düzenleyebilmek, silebilmek, ya da yeni müşteri ekleyebilmek imkanı sağlayacak şekilde tasarlanmıştır.
+Key Features
+Dynamic Data Visualization: An interactive Pie Chart categorizes customers by city, allowing for an immediate visual understanding of where the customer base is concentrated.
+
+Full CRUD Functionality: The system implements a complete Create, Read, Update, and Delete workflow. Users can add new customers, edit existing information, or remove records directly through the data grid.
+
+Real-Time Data Sync: Any change in the customer table—such as adding a new entry or deleting one—instantly updates the app without a page refresh.
+
+Responsive Web UI: Developed with a focus on clean navigation and fast data entry, ensuring the management process is straightforward and efficient.
 
 --preview
 
